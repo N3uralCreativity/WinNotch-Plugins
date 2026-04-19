@@ -17,6 +17,23 @@
       "sha256": "44188ce4784e66c8ef61053d7305dc44f112027f00923f05bebd9df87f4356ca",
       "releaseDate": "2026-04-20T00:00:00Z",
       "isVerified": true
+    },
+    {
+      "id": "com.winnotch.petwidget",
+      "name": "Pet Widget",
+      "version": "1.0.0",
+      "author": "WinNotch Team",
+      "description": "A cute animated cat pet that lives in your notch! It walks, plays, sleeps, and reacts to your interactions. Pet it to keep it happy!",
+      "minimumWinNotchVersion": "0.3.0",
+      "downloadUrl": "https://github.com/N3uralCreativity/WinNotch-Plugins/releases/download/petwidget-v1.0.0/PetWidgetPlugin.dll",
+      "homepage": "https://github.com/N3uralCreativity/WinNotch",
+      "iconUrl": "",
+      "category": "Fun",
+      "permissions": [],
+      "dependencies": [],
+      "sha256": "5F89B90EB5EE02FA437F49924DD5B935F4D3889A4E56979B64E8956DA100656B",
+      "releaseDate": "2026-04-20T00:00:00Z",
+      "isVerified": true
     }
   ]
 }
