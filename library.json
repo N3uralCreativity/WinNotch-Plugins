@@ -1,4 +1,22 @@
 {
   "version": "1.0",
-  "plugins": []
+  "plugins": [
+    {
+      "id": "com.winnotch.helloworld",
+      "name": "Hello World",
+      "version": "1.0.0",
+      "author": "WinNotch Team",
+      "description": "A simple test plugin that displays system info (time, uptime, machine name) in the notch.",
+      "minimumWinNotchVersion": "0.3.0",
+      "downloadUrl": "https://github.com/N3uralCreativity/WinNotch-Plugins/releases/download/v1.0.0/HelloWorldPlugin.dll",
+      "homepage": "https://github.com/N3uralCreativity/WinNotch",
+      "iconUrl": "",
+      "category": "Widget",
+      "permissions": [],
+      "dependencies": [],
+      "sha256": "44188ce4784e66c8ef61053d7305dc44f112027f00923f05bebd9df87f4356ca",
+      "releaseDate": "2026-04-20T00:00:00Z",
+      "isVerified": true
+    }
+  ]
 }
