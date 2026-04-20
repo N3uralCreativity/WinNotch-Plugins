@@ -34,6 +34,23 @@
       "sha256": "E26DA93E1A0C0EAB2C4F9DFEDD672B4D946496FF36A114AA697D7D638CE609F3",
       "releaseDate": "2026-04-20T00:00:00Z",
       "isVerified": true
+    },
+    {
+      "id": "com.winnotch.weatherwidget",
+      "name": "Weather",
+      "version": "1.0.0",
+      "author": "WinNotch Team",
+      "description": "Shows current weather beside the calendar in the expanded notch, with a vertical-friendly layout for side docking.",
+      "minimumWinNotchVersion": "0.3.8",
+      "downloadUrl": "https://github.com/N3uralCreativity/WinNotch-Plugins/releases/download/weatherwidget-v1.0.0/WeatherWidgetPlugin.dll",
+      "homepage": "https://github.com/N3uralCreativity/WinNotch/tree/main/Examples/Plugins/WeatherWidgetPlugin",
+      "iconUrl": "",
+      "category": "Widget",
+      "permissions": ["network", "location"],
+      "dependencies": [],
+      "sha256": "BBE74B27D3387F8C2A0C55F79DA61E7CF44A0F7FA636AD5095D9CB33606680C1",
+      "releaseDate": "2026-04-20T00:00:00Z",
+      "isVerified": true
     }
   ]
 }
