@@ -51,6 +51,23 @@
       "sha256": "BBE74B27D3387F8C2A0C55F79DA61E7CF44A0F7FA636AD5095D9CB33606680C1",
       "releaseDate": "2026-04-20T00:00:00Z",
       "isVerified": true
+    },
+    {
+      "id": "com.winnotch.todopeek",
+      "name": "Todo Peek",
+      "version": "1.0.0",
+      "author": "WinNotch Team",
+      "description": "Expanded-view task widget with quick completion for Todoist, plus manual-token Microsoft To Do support and a vertical-friendly layout.",
+      "minimumWinNotchVersion": "0.3.8",
+      "downloadUrl": "https://github.com/N3uralCreativity/WinNotch-Plugins/releases/download/todopeek-v1.0.0/TodoPeekPlugin.dll",
+      "homepage": "https://github.com/N3uralCreativity/WinNotch/tree/main/Examples/Plugins/TodoPeekPlugin",
+      "iconUrl": "",
+      "category": "Productivity",
+      "permissions": ["network"],
+      "dependencies": [],
+      "sha256": "67442B6AE43689214D3D06B5A57F8A09C6E6F903673482A0FEE645113216BBA3",
+      "releaseDate": "2026-04-20T00:00:00Z",
+      "isVerified": true
     }
   ]
 }
