@@ -102,6 +102,23 @@
       "sha256": "36637112CA52F1AF05E52FAE592690377B3C5BC9B2F673EBAE338636AFDFBF0B",
       "releaseDate": "2026-04-20T00:00:00Z",
       "isVerified": true
+    },
+    {
+      "id": "com.winnotch.downloadswatcher",
+      "name": "Downloads Watcher",
+      "version": "1.0.0",
+      "author": "WinNotch Team",
+      "description": "Tracks active partial downloads and recent completed files in the expanded notch, with quick open actions and a vertical-friendly layout.",
+      "minimumWinNotchVersion": "0.3.8",
+      "downloadUrl": "https://github.com/N3uralCreativity/WinNotch-Plugins/releases/download/downloadswatcher-v1.0.0/DownloadsWatcherPlugin.dll",
+      "homepage": "https://github.com/N3uralCreativity/WinNotch/tree/main/Examples/Plugins/DownloadsWatcherPlugin",
+      "iconUrl": "",
+      "category": "SystemUtility",
+      "permissions": ["filesystem"],
+      "dependencies": [],
+      "sha256": "E32EE2ED780267341DC7960D14E5136049D226D2113C03EFA3A4A07ABD942A6A",
+      "releaseDate": "2026-04-21T00:00:00Z",
+      "isVerified": true
     }
   ]
 }
